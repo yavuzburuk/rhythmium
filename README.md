@@ -1,4 +1,6 @@
-# Ritim. Bu kod Google Collabs ortamında çalışır.
+# Ritim. 
+
+Bu kod Google Collabs ortamında çalışır.
 
 Ritim Soru Üretimi için Ritmik Hücre Bankaları ve Yönergeler
 Önbilgiler Ölçü sayısı: 2 Zaman İşareti seçenekleri: 4/4 Örnek:
