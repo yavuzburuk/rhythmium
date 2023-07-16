@@ -1,4 +1,5 @@
 # Ritmiyum. Bu kod Google Collabs ortamında çalışır.
+
 Ritim Soru Üretimi için Ritmik Hücre Bankaları ve Yönergeler
 Önbilgiler Ölçü sayısı: 2 Zaman İşareti seçenekleri: 4/4 Örnek:
 
@@ -10,11 +11,9 @@ Total Q = 20,
 Total Q > 15 tekrar rastgele üretelim; • S1 – S6- S2 – S3 – S2 – S4 – S1 – S1
 
 Total Q = 14 Output 
-![image](https://github.com/yavuzburuk/rhythmium/assets/47657147/f23cd408-609f-4eec-b89d-3634da89c786)
-![image](https://github.com/yavuzburuk/rhythmium/assets/47657147/485a1378-a067-4bbb-92ad-387282465762)
-![image](https://github.com/yavuzburuk/rhythmium/assets/47657147/e83921bf-e761-472e-93d3-d10defd2a2c4)
-![image](https://github.com/yavuzburuk/rhythmium/assets/47657147/7d956b89-ef2b-43db-9f95-5205205b52cf)
-
 
 Kullanıcı kod içinde seviye (1/2) ve opsiyon (1/2) parametrelerini değiştirerek bu tablolar ile ritmleri hesaplar.
-Mixed alternatifinde ise ilk 4 ölçü seviye-1, kalan 4 ölçü ile seviye-2'den alınır
+Mixed alternatifinde ise ilk 4 ölçü seviye-1, kalan 4 ölçü ile seviye-2'den alınır.
+
+Otomatik Ritim Üreticisi Prof.Dr. Barış Bozkurt'un (İzmir Demokrasi Üniversitesi) yürütücülüğünde gerçekleştirilen 121E198 no'lu "Çevrimiçi müzik eğitiminde kullanılma amaçlı öğrenci müzik egzersiz icrası otomatik notlandırma sistemi tasarımı" başlıklı Tübitak 1001 projesi kapsamında, kuralları Doç. Dr. Ozan Baysal (İstanbul Teknik Üniversitesi) tarafından tasarlanmış, Yavuz Buruk (İstanbul Teknik Üniversitesi) tarafından kodu geliştirmiştir.
+
